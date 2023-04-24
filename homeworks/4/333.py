@@ -100,3 +100,6 @@ else:
     res = arr[num_k-1]+arr[num_k]+arr[num_k+1]
     print(f"всего ягод {res} ")
     exit()
+
+
+    # done
